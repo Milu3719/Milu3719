@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...CSS
 - 💞️ I’m looking to collaborate with myself
 - 📫 How to reach by road/air/train
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im Indian
 
 <!---
